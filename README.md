@@ -1,5 +1,9 @@
 # THREADFLOW — Fashion Supply Chain & Merchandising Control Tower
 
+- **Live Production Application (Vercel):** https://threadflow-control-tower.vercel.app
+- **Live FastAPI Backend Service (Vercel):** https://threadflow-backend.vercel.app (Swagger Docs: https://threadflow-backend.vercel.app/docs)
+- **GitHub Repository:** https://github.com/Yadul12/threadflow-control-tower
+
 THREADFLOW is a full-stack enterprise operations platform connecting **Inbound Procurement & Catalogue**, **Inventory & Replenishment Intelligence**, and **Outbound Order Fulfilment, Delivery & Returns** for fashion and apparel retail operations.
 
 > **Synthetic Data Disclosure:** All pre-seeded records (12 garment suppliers, 4 regional fulfilment centres, 10 fashion categories, 240 SKUs, 48 purchase orders, 480 warehouse-SKU inventory records, 180 customer orders, 154 shipments, 52 returns/exchanges, and 30 operational exceptions) are **100% synthetic** (`is_synthetic = true`) and generated with strict referential integrity.
