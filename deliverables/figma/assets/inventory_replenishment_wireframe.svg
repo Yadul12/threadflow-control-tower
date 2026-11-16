@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" font-family="Inter, system-ui, sans-serif">
+  <rect width="1200" height="720" fill="#F6F5F2"/>
+  <rect x="0" y="0" width="220" height="720" fill="#18181B"/>
+  <text x="20" y="34" fill="#FFFFFF" font-size="15" font-weight="700">THREADFLOW</text>
+  <rect x="12" y="160" width="196" height="32" rx="2" fill="#27272A"/>
+  <text x="24" y="180" fill="#FFFFFF" font-size="12" font-weight="600">Inventory &amp; Replenishment</text>
+  <rect x="220" y="0" width="980" height="52" fill="#FFFFFF" stroke="#D6D3CD"/>
+  <text x="244" y="31" fill="#18181B" font-size="15" font-weight="600">Workspace B — Transparent WMA Demand Forecast &amp; Replenishment Queue</text>
+  <!-- Formula Disclosure Strip -->
+  <rect x="244" y="68" width="932" height="54" fill="#EFECE6" stroke="#D6D3CD"/>
+  <text x="260" y="90" fill="#18181B" font-size="12" font-weight="600">BASELINE MODEL: Forecast = 0.60 * ADS_7d + 0.40 * ADS_30d  |  ROP = (Forecast * Supplier_LT) + Safety_Stock</text>
+  <text x="260" y="108" fill="#52525B" font-size="11">LIMITATION DISCLOSURE: Backward-looking moving average; lags abrupt seasonal inflections and promotional price elasticity.</text>
+  <!-- Replenishment Table -->
+  <rect x="244" y="138" width="932" height="540" fill="#FFFFFF" stroke="#D6D3CD"/>
+  <rect x="244" y="138" width="932" height="36" fill="#EFECE6" stroke="#D6D3CD"/>
+  <text x="260" y="160" fill="#3F3F46" font-size="11" font-weight="700">SKU / WAREHOUSE</text>
+  <text x="470" y="160" fill="#3F3F46" font-size="11" font-weight="700">AVAIL / IN-TRANSIT</text>
+  <text x="630" y="160" fill="#3F3F46" font-size="11" font-weight="700">7D / 30D WMA DEMAND</text>
+  <text x="800" y="160" fill="#3F3F46" font-size="11" font-weight="700">DOC / ROP</text>
+  <text x="920" y="160" fill="#3F3F46" font-size="11" font-weight="700">RECOMMENDED QTY</text>
+  <text x="1055" y="160" fill="#3F3F46" font-size="11" font-weight="700">ACTION</text>
+  <text x="260" y="200" fill="#18181B" font-size="12" font-family="monospace">TF-MCS-1001 @ WH-A-BLR</text>
+  <text x="470" y="200" fill="#991B1B" font-size="12" font-family="monospace">0 u / 0 u (STOCKOUT)</text>
+  <text x="630" y="200" fill="#18181B" font-size="12" font-family="monospace">6.4 /d (WMA: 6.1 /d)</text>
+  <text x="800" y="200" fill="#18181B" font-size="12" font-family="monospace">0.0d / 128 u</text>
+  <text x="920" y="200" fill="#166534" font-size="12" font-family="monospace" font-weight="700">+215 units</text>
+  <rect x="1055" y="183" width="105" height="24" fill="#166534"/>
+  <text x="1067" y="199" fill="#FFFFFF" font-size="11">Convert to PO</text>
+</svg>

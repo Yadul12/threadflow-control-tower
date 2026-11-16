@@ -1,0 +1,13 @@
+﻿supplier_code,supplier_name,tier,category_specialization,city,contracted_lead_time_days,actual_avg_lead_time_days,on_time_delivery_rate,fill_rate,quality_pass_rate,issue_count,status
+SUP-TIR-001,Kaveri Knitwear Exports Pvt Ltd,STRATEGIC,Men's Casual Shirts & Knits,Tiruppur,14,15.2,94.5,96.8,98.1,1,ACTIVE
+SUP-BLR-002,Deccan Loom & Apparel Works,TIER_1,Men's Stretch Denim & Chinos,Bengaluru,18,22.4,81.2,88.5,94.0,4,ACTIVE
+SUP-SUR-003,Tapi Silk & Georgette Mills,STRATEGIC,Women's Ethnic Kurtas & Sarees,Surat,16,16.5,93.0,95.4,97.2,1,ACTIVE
+SUP-JAI-004,Rajputana Craft & Block Prints,TIER_2,Women's Ethnic Kurtas & Fusion,Jaipur,20,27.8,72.5,83.0,91.5,6,UNDER_AUDIT
+SUP-GGN-005,Atelier Moda NCR Pvt Ltd,TIER_1,Women's Western Dresses & Tops,Gurugram,15,16.1,91.8,94.2,96.9,2,ACTIVE
+SUP-LUD-006,Sutlej Merino & Fleece Co,TIER_1,Winter Knitwear & Sweatshirts,Ludhiana,21,26.5,76.4,86.0,93.8,5,ACTIVE
+SUP-NOI-007,Kinetic Performance Apparel,STRATEGIC,Activewear & Athleisure,Noida,14,14.4,96.2,97.5,98.6,0,ACTIVE
+SUP-AGR-008,Braj Footwear & Vulcanized Sole Ltd,TIER_1,Footwear & Sneakers,Agra,22,24.0,85.0,91.2,94.5,3,ACTIVE
+SUP-TIR-009,LittleStar Organic Cottons,TIER_1,Kids Apparel & Infantwear,Tiruppur,15,15.8,92.4,95.0,97.8,1,ACTIVE
+SUP-BOM-010,Konkan Intimates & Lounge Studio,TIER_2,Loungewear & Innerwear,Mumbai,16,19.2,84.5,90.1,95.2,2,ACTIVE
+SUP-CCU-011,Hooghly Leather & Canvas Craft,TIER_2,Accessories & Bags,Kolkata,18,25.1,74.0,82.5,90.4,5,ON_HOLD
+SUP-CHN-012,Coromandel Woven Poplin Mills,STRATEGIC,Men's Formal & Casual Shirts,Chennai,14,14.8,95.1,96.4,98.0,1,ACTIVE

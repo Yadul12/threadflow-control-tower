@@ -1,0 +1,2 @@
+﻿rma_number,order_number,sku,reason_code,request_type,refund_amount_inr,qc_notes
+RMA-2026-3901,ORD-2026-50001,TF-MCS-1001,RET-SIZE-SMALL,SIZE_EXCHANGE,1499.0,Uploaded via Reverse Logistics batch sheet

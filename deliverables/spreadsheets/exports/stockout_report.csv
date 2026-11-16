@@ -1,0 +1,121 @@
+﻿Warehouse,SKU,Product Name,On Hand,Reserved,Available,In Transit,7d ADS,Forecast Daily Demand,Reorder Point,Status
+WH-A-BLR,TF-MCS-1001,Vero Thread Oxford Button-Down Shirt — Midnight Navy (XS),5,5,0,120,5.12,5.34,111,STOCKOUT
+WH-B-DEL,TF-MCS-1002,Harbour Loom Linen-Cotton Mandarin Shirt — Olive Drab (S),0,0,0,60,9.17,9.08,188,STOCKOUT
+WH-C-BOM,TF-MCS-1003,Northbound Studio Brushed Twill Overshirt — Raw Indigo (M),14,4,10,80,3.16,3.41,71,LOW_STOCK
+WH-D-CCU,TF-MCS-1004,Vero Thread Slub Pique Resort Shirt — Burnt Terracotta (L),28,9,19,40,5.48,5.06,154,LOW_STOCK
+WH-A-BLR,TF-MCS-1005,Harbour Loom Oxford Button-Down Shirt — Charcoal Slate (XL),25,7,18,0,5.09,5.33,111,LOW_STOCK
+WH-D-CCU,TF-MCS-1014,Harbour Loom Linen-Cotton Mandarin Shirt — Ecru Sand (S),3,3,0,120,7.61,7.15,148,STOCKOUT
+WH-A-BLR,TF-MCS-1015,Northbound Studio Brushed Twill Overshirt — Burgundy Wine (M),0,0,0,60,8.59,8.39,173,STOCKOUT
+WH-B-DEL,TF-MCS-1016,Vero Thread Slub Pique Resort Shirt — Forest Pine (L),15,5,10,40,3.23,3.51,107,LOW_STOCK
+WH-C-BOM,TF-MCS-1017,Harbour Loom Oxford Button-Down Shirt — Midnight Navy (XL),20,8,12,40,4.15,4.02,84,LOW_STOCK
+WH-D-CCU,TF-MCS-1018,Northbound Studio Linen-Cotton Mandarin Shirt — Olive Drab (XXL),24,9,15,0,4.64,4.42,92,LOW_STOCK
+WH-A-BLR,TF-MCS-1021,Northbound Studio Oxford Button-Down Shirt — Charcoal Slate (M),0,0,0,60,5.5,5.5,114,STOCKOUT
+WH-B-DEL,TF-MCS-1022,Vero Thread Linen-Cotton Mandarin Shirt — Ecru Sand (L),3,3,0,120,8.08,8.09,167,STOCKOUT
+WH-C-BOM,TF-MCS-1023,Harbour Loom Brushed Twill Overshirt — Burgundy Wine (XL),29,9,20,80,5.07,5.47,114,LOW_STOCK
+WH-D-CCU,TF-MCS-1024,Northbound Studio Slub Pique Resort Shirt — Forest Pine (XXL),29,4,25,40,3.4,3.14,96,LOW_STOCK
+WH-A-BLR,TF-MSD-1025,Indigo Foundry Selvedge Tapered Jeans — Olive Drab (XS),25,8,17,40,3.32,3.54,108,LOW_STOCK
+WH-D-CCU,TF-MSD-1034,Indigo Foundry Athletic Stretch Denim — Raw Indigo (L),0,0,0,60,8.88,8.48,257,STOCKOUT
+WH-A-BLR,TF-MSD-1035,Raw Selvedge Co Vintage Wash Straight Jeans — Burnt Terracotta (XL),0,0,0,60,7.89,7.31,222,STOCKOUT
+WH-B-DEL,TF-MSD-1036,Denim Republic Garment-Dyed Stretch Chino — Charcoal Slate (XXL),18,4,14,40,5.88,5.53,124,LOW_STOCK
+WH-C-BOM,TF-MSD-1037,Indigo Foundry Selvedge Tapered Jeans — Ecru Sand (XS),25,9,16,40,9.15,8.67,263,LOW_STOCK
+WH-D-CCU,TF-MSD-1038,Raw Selvedge Co Athletic Stretch Denim — Burgundy Wine (S),36,9,27,40,3.9,3.81,116,LOW_STOCK
+WH-A-BLR,TF-MSD-1041,Raw Selvedge Co Selvedge Tapered Jeans — Olive Drab (XL),0,0,0,0,4.52,4.13,126,STOCKOUT
+WH-B-DEL,TF-MSD-1042,Denim Republic Athletic Stretch Denim — Raw Indigo (XXL),5,5,0,60,4.94,4.67,142,STOCKOUT
+WH-C-BOM,TF-MSD-1043,Indigo Foundry Vintage Wash Straight Jeans — Burnt Terracotta (XS),14,7,7,80,4.25,4.01,122,LOW_STOCK
+WH-D-CCU,TF-MSD-1044,Raw Selvedge Co Garment-Dyed Stretch Chino — Charcoal Slate (S),38,6,32,0,4.62,4.56,103,LOW_STOCK
+WH-A-BLR,TF-MSD-1045,Denim Republic Selvedge Tapered Jeans — Ecru Sand (M),18,7,11,40,6.34,6.71,204,LOW_STOCK
+WH-D-CCU,TF-WEK-1054,Zari & Co Handblock Indigo Anarkali Kurta — Forest Pine (XXL),0,0,0,60,7.83,8.13,182,STOCKOUT
+WH-A-BLR,TF-WEK-1055,Aurelia Weaves Festive Zari A-Line Kurta Set — Midnight Navy (XS),0,0,0,60,2.52,2.69,61,STOCKOUT
+WH-B-DEL,TF-WEK-1056,Saanjh Heritage Schiffli Cotton Everyday Kurta — Olive Drab (S),26,10,16,80,7.59,7.03,265,LOW_STOCK
+WH-C-BOM,TF-WEK-1057,Zari & Co Chanderi Embroidered Straight Kurta — Raw Indigo (M),32,4,28,0,4.98,5.35,120,LOW_STOCK
+WH-D-CCU,TF-WEK-1058,Aurelia Weaves Handblock Indigo Anarkali Kurta — Burnt Terracotta (L),24,4,20,0,3.22,3.09,69,LOW_STOCK
+WH-A-BLR,TF-WEK-1061,Aurelia Weaves Chanderi Embroidered Straight Kurta — Burgundy Wine (XS),3,3,0,120,3.31,3.55,80,STOCKOUT
+WH-B-DEL,TF-WEK-1062,Saanjh Heritage Handblock Indigo Anarkali Kurta — Forest Pine (S),3,3,0,60,3.56,3.46,78,STOCKOUT
+WH-C-BOM,TF-WEK-1063,Zari & Co Festive Zari A-Line Kurta Set — Midnight Navy (M),15,10,5,80,6.09,6.5,146,LOW_STOCK
+WH-D-CCU,TF-WEK-1064,Aurelia Weaves Schiffli Cotton Everyday Kurta — Olive Drab (L),16,8,8,0,6.06,6.58,248,LOW_STOCK
+WH-A-BLR,TF-WEK-1065,Saanjh Heritage Chanderi Embroidered Straight Kurta — Raw Indigo (XL),30,8,22,0,8.35,8.03,180,LOW_STOCK
+WH-D-CCU,TF-WWD-1074,Maison Verve Linen Wrap Shirt Dress — Charcoal Slate (S),3,3,0,60,9.15,8.82,193,STOCKOUT
+WH-A-BLR,TF-WWD-1075,Solstice Femme Satin Bias-Cut Evening Slip Dress — Ecru Sand (M),5,5,0,60,5.46,5.76,126,STOCKOUT
+WH-B-DEL,TF-WWD-1076,atelier Lune Tiered Poplin Smocked Day Dress — Burgundy Wine (L),21,8,13,0,7.29,6.83,245,LOW_STOCK
+WH-C-BOM,TF-WWD-1077,Maison Verve Pleated Georgette Midi Dress — Forest Pine (XL),38,9,29,0,7.73,7.56,165,LOW_STOCK
+WH-D-CCU,TF-WWD-1078,Solstice Femme Linen Wrap Shirt Dress — Midnight Navy (XXL),34,5,29,40,8.88,8.26,180,LOW_STOCK
+WH-A-BLR,TF-WWD-1081,Solstice Femme Pleated Georgette Midi Dress — Burnt Terracotta (M),5,5,0,120,5.87,5.51,121,STOCKOUT
+WH-B-DEL,TF-WWD-1082,atelier Lune Linen Wrap Shirt Dress — Charcoal Slate (L),5,5,0,60,5.62,5.25,115,STOCKOUT
+WH-C-BOM,TF-WWD-1083,Maison Verve Satin Bias-Cut Evening Slip Dress — Ecru Sand (XL),30,5,25,40,2.11,2.24,50,LOW_STOCK
+WH-D-CCU,TF-WWD-1084,Solstice Femme Tiered Poplin Smocked Day Dress — Burgundy Wine (XXL),24,10,14,40,2.72,2.89,104,LOW_STOCK
+WH-A-BLR,TF-WWD-1085,atelier Lune Pleated Georgette Midi Dress — Forest Pine (XS),21,9,12,80,2.52,2.4,53,LOW_STOCK
+WH-D-CCU,TF-WWD-1094,atelier Lune Linen Wrap Shirt Dress — Midnight Navy (L),0,0,0,0,7.17,6.82,149,STOCKOUT
+WH-A-BLR,TF-WWD-1095,Maison Verve Satin Bias-Cut Evening Slip Dress — Olive Drab (XL),5,5,0,60,5.69,5.68,125,STOCKOUT
+WH-B-DEL,TF-WWD-1096,Solstice Femme Tiered Poplin Smocked Day Dress — Raw Indigo (XXL),25,5,20,80,9.03,8.79,315,LOW_STOCK
+WH-C-BOM,TF-WKN-1097,Alpine Knit Heavyweight French Terry Hoodie — Charcoal Slate (XS),33,7,26,0,4.68,4.82,173,LOW_STOCK
+WH-D-CCU,TF-WKN-1098,Nordic Fleece Merino Blend Quarter-Zip Pullover — Ecru Sand (S),29,8,21,80,9.86,9.59,344,LOW_STOCK
+WH-A-BLR,TF-WKN-1101,Nordic Fleece Heavyweight French Terry Hoodie — Midnight Navy (XL),0,0,0,0,4.29,4.14,149,STOCKOUT
+WH-B-DEL,TF-WKN-1102,Warmth & Co Merino Blend Quarter-Zip Pullover — Olive Drab (XXL),0,0,0,0,5.01,4.69,169,STOCKOUT
+WH-C-BOM,TF-WKN-1103,Alpine Knit Cable-Knit Crewneck Sweater — Raw Indigo (XS),38,5,33,0,6.56,6.26,225,LOW_STOCK
+WH-D-CCU,TF-WKN-1104,Nordic Fleece Brushed Fleece Track Sweatshirt — Burnt Terracotta (S),20,6,14,40,11.01,10.17,199,LOW_STOCK
+WH-A-BLR,TF-WKN-1105,Warmth & Co Heavyweight French Terry Hoodie — Charcoal Slate (M),19,8,11,40,4.0,4.11,148,LOW_STOCK
+WH-D-CCU,TF-WKN-1114,Warmth & Co Merino Blend Quarter-Zip Pullover — Ecru Sand (XXL),5,5,0,60,2.79,2.62,95,STOCKOUT
+WH-A-BLR,TF-WKN-1115,Alpine Knit Cable-Knit Crewneck Sweater — Burgundy Wine (XS),5,5,0,60,3.22,3.03,110,STOCKOUT
+WH-B-DEL,TF-WKN-1116,Nordic Fleece Brushed Fleece Track Sweatshirt — Forest Pine (S),38,7,31,0,6.74,6.28,123,LOW_STOCK
+WH-C-BOM,TF-WKN-1117,Warmth & Co Heavyweight French Terry Hoodie — Midnight Navy (M),19,10,9,40,4.34,4.28,154,LOW_STOCK
+WH-D-CCU,TF-WKN-1118,Alpine Knit Merino Blend Quarter-Zip Pullover — Olive Drab (L),18,4,14,0,5.46,5.64,203,LOW_STOCK
+WH-A-BLR,TF-ACT-1121,Kinetix Pro 4-Way Stretch Training Tee — Ecru Sand (XS),3,3,0,60,7.63,7.97,156,STOCKOUT
+WH-B-DEL,TF-ACT-1122,Pulse Stride High-Waist Sculpt Leggings — Burgundy Wine (S),3,3,0,0,6.41,6.01,118,STOCKOUT
+WH-C-BOM,TF-ACT-1123,AeroFlex Perforated Running Joggers — Forest Pine (M),20,4,16,80,6.93,6.35,125,LOW_STOCK
+WH-D-CCU,TF-ACT-1124,Kinetix Pro Seamless Studio Quarter-Zip — Midnight Navy (L),37,5,32,40,2.07,2.21,73,LOW_STOCK
+WH-A-BLR,TF-ACT-1125,Pulse Stride 4-Way Stretch Training Tee — Olive Drab (XL),32,8,24,0,8.92,8.9,174,LOW_STOCK
+WH-D-CCU,TF-ACT-1134,Pulse Stride High-Waist Sculpt Leggings — Raw Indigo (S),3,3,0,60,3.18,3.24,64,STOCKOUT
+WH-A-BLR,TF-ACT-1135,AeroFlex Perforated Running Joggers — Burnt Terracotta (M),5,5,0,0,8.49,8.09,158,STOCKOUT
+WH-B-DEL,TF-ACT-1136,Kinetix Pro Seamless Studio Quarter-Zip — Charcoal Slate (L),18,5,13,40,6.63,6.67,218,LOW_STOCK
+WH-C-BOM,TF-ACT-1137,Pulse Stride 4-Way Stretch Training Tee — Ecru Sand (XL),19,7,12,0,7.75,7.14,139,LOW_STOCK
+WH-D-CCU,TF-ACT-1138,AeroFlex High-Waist Sculpt Leggings — Burgundy Wine (XXL),28,5,23,0,3.22,3.31,65,LOW_STOCK
+WH-A-BLR,TF-ACT-1141,AeroFlex 4-Way Stretch Training Tee — Olive Drab (M),5,5,0,120,6.08,5.96,117,STOCKOUT
+WH-B-DEL,TF-ACT-1142,Kinetix Pro High-Waist Sculpt Leggings — Raw Indigo (L),5,5,0,120,9.75,9.54,187,STOCKOUT
+WH-C-BOM,TF-ACT-1143,Pulse Stride Perforated Running Joggers — Burnt Terracotta (XL),19,6,13,80,6.71,7.03,138,LOW_STOCK
+WH-D-CCU,TF-ACT-1144,AeroFlex Seamless Studio Quarter-Zip — Charcoal Slate (XXL),29,9,20,80,9.61,9.06,295,LOW_STOCK
+WH-A-BLR,TF-FTW-1145,UrbanSole Vulcanized Suede Low-Top Sneaker — Burgundy Wine (UK6),18,4,14,40,3.89,3.58,117,LOW_STOCK
+WH-D-CCU,TF-FTW-1154,UrbanSole Knit-Mesh Runner Trainer — Forest Pine (UK9),3,3,0,0,4.51,4.84,158,STOCKOUT
+WH-A-BLR,TF-FTW-1155,StrideCraft Leather Court Classic Sneaker — Midnight Navy (UK10),5,5,0,120,7.46,7.6,247,STOCKOUT
+WH-B-DEL,TF-FTW-1156,Veloce Kicks Slip-On Canvas Espadrille Mule — Olive Drab (UK11),30,8,22,80,10.12,9.47,203,LOW_STOCK
+WH-C-BOM,TF-FTW-1157,UrbanSole Vulcanized Suede Low-Top Sneaker — Raw Indigo (UK6),33,10,23,40,3.16,3.04,99,LOW_STOCK
+WH-D-CCU,TF-FTW-1158,StrideCraft Knit-Mesh Runner Trainer — Burnt Terracotta (UK7),38,4,34,80,8.67,8.44,274,LOW_STOCK
+WH-A-BLR,TF-FTW-1161,StrideCraft Vulcanized Suede Low-Top Sneaker — Burgundy Wine (UK10),0,0,0,120,5.53,5.78,188,STOCKOUT
+WH-B-DEL,TF-FTW-1162,Veloce Kicks Knit-Mesh Runner Trainer — Forest Pine (UK11),3,3,0,0,4.16,4.23,138,STOCKOUT
+WH-C-BOM,TF-FTW-1163,UrbanSole Leather Court Classic Sneaker — Midnight Navy (UK6),29,8,21,80,4.74,4.41,144,LOW_STOCK
+WH-D-CCU,TF-FTW-1164,StrideCraft Slip-On Canvas Espadrille Mule — Olive Drab (UK7),38,4,34,0,5.25,5.44,117,LOW_STOCK
+WH-A-BLR,TF-FTW-1165,Veloce Kicks Vulcanized Suede Low-Top Sneaker — Raw Indigo (UK8),37,4,33,40,9.09,8.55,278,LOW_STOCK
+WH-D-CCU,TF-KID-1174,Sunbeam Junior Brushed Jersey Jogger & Tee Set — Charcoal Slate (XXL),5,5,0,0,4.29,4.21,91,STOCKOUT
+WH-A-BLR,TF-KID-1175,Little Acorn Quilted Reversible Gilet & Top — Ecru Sand (XS),3,3,0,60,7.77,7.53,161,STOCKOUT
+WH-B-DEL,TF-KID-1176,CloudHopper Kids Soft Chambray Dungaree Set — Burgundy Wine (S),30,8,22,40,6.76,6.78,177,LOW_STOCK
+WH-C-BOM,TF-KID-1177,Sunbeam Junior Organic Interlock Graphic Co-ord — Forest Pine (M),21,9,12,80,3.73,3.73,80,LOW_STOCK
+WH-D-CCU,TF-KID-1178,Little Acorn Brushed Jersey Jogger & Tee Set — Midnight Navy (L),38,5,33,40,9.55,9.25,199,LOW_STOCK
+WH-A-BLR,TF-KID-1181,Little Acorn Organic Interlock Graphic Co-ord — Burnt Terracotta (XS),0,0,0,60,5.07,4.81,103,STOCKOUT
+WH-B-DEL,TF-KID-1182,CloudHopper Kids Brushed Jersey Jogger & Tee Set — Charcoal Slate (S),0,0,0,120,8.62,8.92,191,STOCKOUT
+WH-C-BOM,TF-KID-1183,Sunbeam Junior Quilted Reversible Gilet & Top — Ecru Sand (M),20,5,15,80,5.46,5.34,115,LOW_STOCK
+WH-D-CCU,TF-KID-1184,Little Acorn Soft Chambray Dungaree Set — Burgundy Wine (L),37,4,33,0,9.52,9.22,240,LOW_STOCK
+WH-A-BLR,TF-KID-1185,CloudHopper Kids Organic Interlock Graphic Co-ord — Forest Pine (XL),36,9,27,40,2.45,2.37,52,LOW_STOCK
+WH-D-CCU,TF-LNG-1194,CloudRest Pima Cotton Pyjama Trouser — Olive Drab (S),5,5,0,0,5.47,5.49,143,STOCKOUT
+WH-A-BLR,TF-LNG-1195,Hush Cotton Seamless Bamboo Everyday Briefs 2-Pack — Raw Indigo (M),3,3,0,120,9.67,9.07,236,STOCKOUT
+WH-B-DEL,TF-LNG-1196,Serene Modal Waffle-Knit Thermal Lounge Henleys — Burnt Terracotta (L),33,4,29,0,8.1,7.65,261,LOW_STOCK
+WH-C-BOM,TF-LNG-1197,CloudRest Micro-Modal Ribbed Lounge Set — Charcoal Slate (XL),21,8,13,80,2.9,2.93,77,LOW_STOCK
+WH-D-CCU,TF-LNG-1198,Hush Cotton Pima Cotton Pyjama Trouser — Ecru Sand (XXL),27,10,17,0,4.49,4.75,124,LOW_STOCK
+WH-A-BLR,TF-LNG-1201,Hush Cotton Micro-Modal Ribbed Lounge Set — Midnight Navy (M),3,3,0,0,10.15,9.67,251,STOCKOUT
+WH-B-DEL,TF-LNG-1202,Serene Modal Pima Cotton Pyjama Trouser — Olive Drab (L),5,5,0,120,4.18,4.11,107,STOCKOUT
+WH-C-BOM,TF-LNG-1203,CloudRest Seamless Bamboo Everyday Briefs 2-Pack — Raw Indigo (XL),23,6,17,80,9.4,9.22,240,LOW_STOCK
+WH-D-CCU,TF-LNG-1204,Hush Cotton Waffle-Knit Thermal Lounge Henleys — Burnt Terracotta (XXL),36,5,31,40,5.49,5.91,201,LOW_STOCK
+WH-A-BLR,TF-LNG-1205,Serene Modal Micro-Modal Ribbed Lounge Set — Charcoal Slate (XS),22,10,12,40,2.04,2.15,57,LOW_STOCK
+WH-D-CCU,TF-LNG-1214,Serene Modal Pima Cotton Pyjama Trouser — Ecru Sand (L),3,3,0,120,6.35,6.07,158,STOCKOUT
+WH-A-BLR,TF-LNG-1215,CloudRest Seamless Bamboo Everyday Briefs 2-Pack — Burgundy Wine (XL),5,5,0,60,5.8,5.6,146,STOCKOUT
+WH-B-DEL,TF-LNG-1216,Hush Cotton Waffle-Knit Thermal Lounge Henleys — Forest Pine (XXL),27,8,19,40,6.99,6.66,227,LOW_STOCK
+WH-C-BOM,TF-ACC-1217,Tanner & Loom Full-Grain Vegetable Tanned Crossbody — Olive Drab (XS),15,7,8,0,8.41,8.11,276,LOW_STOCK
+WH-D-CCU,TF-ACC-1218,Nomad Carry Waxed Canvas Commuter Tote — Raw Indigo (S),27,7,20,40,6.22,5.95,203,LOW_STOCK
+WH-A-BLR,TF-ACC-1221,Nomad Carry Full-Grain Vegetable Tanned Crossbody — Ecru Sand (XL),5,5,0,0,6.84,6.4,218,STOCKOUT
+WH-B-DEL,TF-ACC-1222,Vanguard Goods Waxed Canvas Commuter Tote — Burgundy Wine (XXL),5,5,0,120,7.7,7.97,272,STOCKOUT
+WH-C-BOM,TF-ACC-1223,Tanner & Loom Reversible Italian Leather Dress Belt — Forest Pine (XS),36,7,29,0,7.61,8.24,280,LOW_STOCK
+WH-D-CCU,TF-ACC-1224,Nomad Carry Quilted Nylon Weekender Duffel — Midnight Navy (S),33,9,24,0,9.88,9.13,184,LOW_STOCK
+WH-A-BLR,TF-ACC-1225,Vanguard Goods Full-Grain Vegetable Tanned Crossbody — Olive Drab (M),26,6,20,40,4.01,4.12,141,LOW_STOCK
+WH-D-CCU,TF-ACC-1234,Vanguard Goods Waxed Canvas Commuter Tote — Raw Indigo (XXL),5,5,0,120,5.0,4.82,164,STOCKOUT
+WH-A-BLR,TF-ACC-1235,Tanner & Loom Reversible Italian Leather Dress Belt — Burnt Terracotta (XS),3,3,0,0,2.62,2.77,95,STOCKOUT
+WH-B-DEL,TF-ACC-1236,Nomad Carry Quilted Nylon Weekender Duffel — Charcoal Slate (S),32,5,27,0,2.97,2.82,57,LOW_STOCK
+WH-C-BOM,TF-ACC-1237,Vanguard Goods Full-Grain Vegetable Tanned Crossbody — Ecru Sand (M),20,4,16,40,10.37,9.48,322,LOW_STOCK
+WH-D-CCU,TF-ACC-1238,Tanner & Loom Waxed Canvas Commuter Tote — Burgundy Wine (L),18,7,11,0,3.89,4.04,138,LOW_STOCK

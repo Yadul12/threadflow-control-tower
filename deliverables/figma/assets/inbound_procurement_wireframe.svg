@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" font-family="Inter, system-ui, sans-serif">
+  <rect width="1200" height="720" fill="#F6F5F2"/>
+  <!-- Left Navigation Rail -->
+  <rect x="0" y="0" width="220" height="720" fill="#18181B"/>
+  <text x="20" y="34" fill="#FFFFFF" font-size="15" font-weight="700" letter-spacing="1">THREADFLOW</text>
+  <text x="20" y="52" fill="#A1A1AA" font-size="10">SUPPLY CHAIN CONTROL TOWER</text>
+  <rect x="12" y="80" width="196" height="32" rx="2" fill="#27272A"/>
+  <text x="24" y="100" fill="#FFFFFF" font-size="12" font-weight="600">Inbound: PO &amp; Supplier Register</text>
+  <text x="24" y="136" fill="#A1A1AA" font-size="12">Catalogue Quality Queue</text>
+  <text x="24" y="168" fill="#A1A1AA" font-size="12">Pricing &amp; Promo Guardrails</text>
+  <text x="24" y="216" fill="#A1A1AA" font-size="12">Inventory &amp; Replenishment</text>
+  <text x="24" y="248" fill="#A1A1AA" font-size="12">Outbound Fulfilment &amp; Returns</text>
+  <!-- Top Command Header -->
+  <rect x="220" y="0" width="980" height="52" fill="#FFFFFF" stroke="#D6D3CD"/>
+  <text x="244" y="31" fill="#18181B" font-size="15" font-weight="600">Workspace A — Purchase Order Register &amp; Supplier Scorecard</text>
+  <rect x="980" y="14" width="196" height="24" rx="2" fill="#FFEDD5" stroke="#FDBA74"/>
+  <text x="992" y="30" fill="#9A3412" font-size="11" font-family="monospace">SYNTHETIC DATA MODE ACTIVE</text>
+  <!-- Filter Bar -->
+  <rect x="244" y="72" width="932" height="44" fill="#EFECE6" stroke="#D6D3CD"/>
+  <text x="260" y="98" fill="#3F3F46" font-size="12" font-weight="600">STATUS FILTER: [ALL] [ISSUED] [ACKNOWLEDGED] [DELAYED (8)] [PARTIALLY_RECEIVED]   |   + ISSUE NEW PO</text>
+  <!-- Enterprise Data Table -->
+  <rect x="244" y="132" width="932" height="540" fill="#FFFFFF" stroke="#D6D3CD"/>
+  <rect x="244" y="132" width="932" height="36" fill="#EFECE6" stroke="#D6D3CD"/>
+  <text x="260" y="154" fill="#3F3F46" font-size="11" font-weight="700">PO NUMBER</text>
+  <text x="390" y="154" fill="#3F3F46" font-size="11" font-weight="700">SUPPLIER</text>
+  <text x="610" y="154" fill="#3F3F46" font-size="11" font-weight="700">WAREHOUSE</text>
+  <text x="720" y="154" fill="#3F3F46" font-size="11" font-weight="700">STATUS</text>
+  <text x="860" y="154" fill="#3F3F46" font-size="11" font-weight="700">ORDERED / RCVD</text>
+  <text x="1030" y="154" fill="#3F3F46" font-size="11" font-weight="700">WORKFLOW ACTION</text>
+  <!-- Row 1 -->
+  <line x1="244" y1="210" x2="1176" y2="210" stroke="#E4E4E7"/>
+  <text x="260" y="192" fill="#18181B" font-size="12" font-family="monospace">PO-2026-1004</text>
+  <text x="390" y="192" fill="#18181B" font-size="12">Rajputana Craft &amp; Block Prints</text>
+  <text x="610" y="192" fill="#18181B" font-size="12" font-family="monospace">WH-A-BLR</text>
+  <rect x="720" y="177" width="84" height="20" fill="#FEE2E2" stroke="#FCA5A5"/>
+  <text x="732" y="191" fill="#991B1B" font-size="11" font-family="monospace">DELAYED +7d</text>
+  <text x="860" y="192" fill="#18181B" font-size="12" font-family="monospace">650 / 0 u</text>
+  <rect x="1030" y="175" width="120" height="24" fill="#1E3A8A"/>
+  <text x="1044" y="191" fill="#FFFFFF" font-size="11">Record GRN / Ack</text>
+</svg>

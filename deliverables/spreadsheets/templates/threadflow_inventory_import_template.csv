@@ -1,0 +1,2 @@
+﻿sku,warehouse_code,on_hand_qty,reserved_qty,in_transit_qty,avg_daily_sales_7d,avg_daily_sales_30d,last_received_date
+TF-MCS-1001,WH-A-BLR,145,12,50,5.4,4.8,2026-11-10

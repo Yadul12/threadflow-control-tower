@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: threadflow-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-threadflow}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-threadflow_dev_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-threadflow}
+    ports:
+      - "5432:5432"
+    volumes:
+      - threadflow_pgdata:/var/lib/postgresql/data
+      - ./backend/sql/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./backend/sql/analytical_views.sql:/docker-entrypoint-initdb.d/02_views.sql:ro
+
+  backend:
+    build:
+      context: ./backend
+    container_name: threadflow-backend
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-threadflow}:${POSTGRES_PASSWORD:-threadflow_dev_pass}@postgres:5432/${POSTGRES_DB:-threadflow}
+      MIXPANEL_TOKEN: ${MIXPANEL_TOKEN:-}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: threadflow-frontend
+    restart: unless-stopped
+    environment:
+      NEXT_PUBLIC_API_BASE_URL: http://backend:8000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  threadflow_pgdata:

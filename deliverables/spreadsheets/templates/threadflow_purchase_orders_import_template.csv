@@ -1,0 +1,2 @@
+﻿po_number,supplier_code,warehouse_code,sku,ordered_qty,expected_delivery_date,notes
+PO-2026-1095,SUP-TIR-001,WH-A-BLR,TF-MCS-1001,180,2026-12-02,Spreadsheet batch replenishment upload
